@@ -20,9 +20,9 @@
   "author": "sonigaurav119@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "git+https://github.com/gauravsoni119/ng2-tel-input.git"
+    "url": "git+https://github.com/tiphai102/ng2-tel-input.git"
   },
-  "homepage": "https://github.com/gauravsoni119/ng2-tel-input#readme",
+  "homepage": "https://github.com/tiphai102/ng2-tel-input#readme",
   "devDependencies": {
     "@angular/compiler": "^6.0.3",
     "@angular/compiler-cli": "^6.0.3",
