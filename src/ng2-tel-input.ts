@@ -1,8 +1,8 @@
 import { Directive, ElementRef, EventEmitter,
     HostListener, Input, OnInit, Output } from '@angular/core';
 import * as $ from 'jquery';
-import 'intl-tel-input';
-import 'intl-tel-input/build/js/utils';
+import 'intl-tel-input-eu';
+import 'intl-tel-input-eu/build/js/utils';
 
 @Directive({
     selector: '[ng2TelInput]',
