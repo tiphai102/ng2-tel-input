@@ -41,7 +41,7 @@
     "@angular/core": "^6.0.3"
   },
   "dependencies": {
-    "intl-tel-input": "https://github.com/tiphai102/intl-tel-input.git",
+    "intl-tel-input-eu": "https://github.com/tiphai102/intl-tel-input.git",
     "jquery": "^3.1.1"
   },
   "typings": "./ng2-tel-input.d.ts"
